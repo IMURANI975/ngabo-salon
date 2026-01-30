@@ -1,0 +1,192 @@
+[{
+  "_id": {
+    "$oid": "69733f3587dfa6aa18c7a2b1"
+  },
+  "name": "Gisubizo Becken",
+  "email": "gb@gmail.com",
+  "phone": "712736123872",
+  "date": {
+    "$date": "2020-08-02T00:00:00.000Z"
+  },
+  "time": "12:00",
+  "service": "hair coloring",
+  "status": "pending",
+  "createdAt": {
+    "$date": "2026-01-23T09:28:21.434Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-23T09:28:21.434Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69733f8187dfa6aa18c7a2bb"
+  },
+  "name": "chris mach",
+  "email": "chris@gmail.com",
+  "phone": "712736123872",
+  "date": {
+    "$date": "2020-08-02T00:00:00.000Z"
+  },
+  "time": "11:00",
+  "service": "hair cutting",
+  "status": "pending",
+  "createdAt": {
+    "$date": "2026-01-23T09:29:37.830Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-23T09:29:37.830Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6973426687dfa6aa18c7a2cb"
+  },
+  "name": "jhjjhsdf",
+  "email": "chris@gmail.com",
+  "phone": "762367423746237842",
+  "date": {
+    "$date": "2026-01-01T00:00:00.000Z"
+  },
+  "time": "11:00 AM",
+  "service": "beard",
+  "status": "pending",
+  "createdAt": {
+    "$date": "2026-01-23T09:41:58.925Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-23T09:41:58.925Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6973442a87dfa6aa18c7a2d1"
+  },
+  "name": "becken gisubizo",
+  "email": "becke@gmail.com",
+  "phone": "76678687876",
+  "date": {
+    "$date": "2026-01-10T00:00:00.000Z"
+  },
+  "time": "10:00 AM",
+  "service": "kids",
+  "status": "pending",
+  "notes": "",
+  "createdAt": {
+    "$date": "2026-01-23T09:49:30.028Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-23T09:49:30.028Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697b0e366f691e6d015348ae"
+  },
+  "name": "john peter",
+  "email": "peter@gmail.com",
+  "phone": "+25058938929",
+  "date": {
+    "$date": "2026-01-31T00:00:00.000Z"
+  },
+  "time": "3:00 PM",
+  "service": "nails",
+  "status": "pending",
+  "createdAt": {
+    "$date": "2026-01-29T07:37:26.576Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-29T07:37:26.576Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697b0e8b6f691e6d015348cb"
+  },
+  "name": "matata",
+  "email": "matata@gmail.com",
+  "phone": "+23082889209",
+  "date": {
+    "$date": "2026-02-07T00:00:00.000Z"
+  },
+  "time": "10:00 AM",
+  "service": "kids",
+  "status": "pending",
+  "createdAt": {
+    "$date": "2026-01-29T07:38:51.327Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-29T07:38:51.327Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697b0ead6f691e6d015348cd"
+  },
+  "name": "mafuta",
+  "email": "mafuta@gmail.com",
+  "phone": "+23088299299",
+  "date": {
+    "$date": "2026-01-30T00:00:00.000Z"
+  },
+  "time": "11:00 AM",
+  "service": "bridal",
+  "status": "pending",
+  "notes": "",
+  "createdAt": {
+    "$date": "2026-01-29T07:39:25.939Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-29T07:39:25.939Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697b0ed16f691e6d015348cf"
+  },
+  "name": "Doe",
+  "email": "doe@gmail.com",
+  "phone": "+230 882992",
+  "date": {
+    "$date": "2026-01-30T00:00:00.000Z"
+  },
+  "time": "12:00 PM",
+  "service": "nails",
+  "status": "pending",
+  "notes": "",
+  "createdAt": {
+    "$date": "2026-01-29T07:40:01.780Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-29T07:40:01.780Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697b7ace6e77b385f96cef39"
+  },
+  "name": "weqwqwewe",
+  "email": "john@gmail.com",
+  "phone": "3323223",
+  "date": {
+    "$date": "2026-01-16T00:00:00.000Z"
+  },
+  "time": "4:00 PM",
+  "service": "beard",
+  "status": "pending",
+  "createdAt": {
+    "$date": "2026-01-29T15:20:46.337Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-29T15:20:46.337Z"
+  },
+  "__v": 0
+}]

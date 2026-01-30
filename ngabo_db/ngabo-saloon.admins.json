@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "696f8750a46c8fa363bfa928"
+  },
+  "username": "admin",
+  "email": "admin@company.com",
+  "password": "Admin@123",
+  "name": "Main Administrator"
+},
+{
+  "_id": {
+    "$oid": "696f8750a46c8fa363bfa929"
+  },
+  "username": "superadmin",
+  "email": "superadmin@company.com",
+  "password": "Super@456",
+  "name": "Super Admin"
+},
+{
+  "_id": {
+    "$oid": "696f8750a46c8fa363bfa92a"
+  },
+  "username": "manageradmin",
+  "email": "manager@company.com",
+  "password": "Manager@789",
+  "name": "Manager Admin"
+},
+{
+  "_id": {
+    "$oid": "696f8750a46c8fa363bfa92b"
+  },
+  "username": "supportadmin",
+  "email": "support@company.com",
+  "password": "Support@321",
+  "name": "Support Administrator"
+}]

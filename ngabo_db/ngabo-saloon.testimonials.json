@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "697a04719bceccb8bea6da57"
+  },
+  "name": "Spa Relax",
+  "service": "sdsds",
+  "comment": "ewre",
+  "rating": 5,
+  "approved": true,
+  "createdAt": {
+    "$date": "2026-01-28T12:43:29.164Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T12:43:29.164Z"
+  },
+  "__v": 0
+}]

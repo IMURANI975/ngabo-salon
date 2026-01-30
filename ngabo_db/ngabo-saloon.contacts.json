@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "6973403187dfa6aa18c7a2c1"
+  },
+  "name": "chris mach",
+  "email": "chris@gmail.com",
+  "subject": "booking",
+  "message": "i want to come to your saloon for hair coloring service",
+  "preferredContact": "email",
+  "status": "new",
+  "createdAt": {
+    "$date": "2026-01-23T09:32:33.909Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-23T09:32:33.909Z"
+  },
+  "__v": 0
+}]

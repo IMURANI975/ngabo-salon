@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "697b7d645a18d8f29a1111bd"
+  },
+  "date": {
+    "$date": "2026-01-29T00:00:00.000Z"
+  },
+  "totalRevenue": 5000,
+  "newCustomers": 10,
+  "todayAppointments": 8,
+  "completedAppointments": 5,
+  "pendingMessages": 2,
+  "activeServices": 4,
+  "totalClients": 50,
+  "servicesBooked": "{\\\"Haircut\\\": 3, \\\"Massage\\\": 2}",
+  "peakHours": "[\\\"10:00-11:00\\",
+  "averageRating": " \\\"14:00-15:00\\\"]\"",
+  "revenueByCategory": 4.5
+},
+{
+  "_id": {
+    "$oid": "697b7d645a18d8f29a1111be"
+  },
+  "date": {
+    "$date": "2026-01-28T00:00:00.000Z"
+  },
+  "totalRevenue": 4500,
+  "newCustomers": 8,
+  "todayAppointments": 7,
+  "completedAppointments": 6,
+  "pendingMessages": 1,
+  "activeServices": 5,
+  "totalClients": 48,
+  "servicesBooked": "{\\\"Haircut\\\": 2, \\\"Facial\\\": 3}",
+  "peakHours": "[\\\"09:00-10:00\\",
+  "averageRating": " \\\"15:00-16:00\\\"]\"",
+  "revenueByCategory": 4.2
+},
+{
+  "_id": {
+    "$oid": "697b7d645a18d8f29a1111bf"
+  },
+  "date": {
+    "$date": "2026-01-27T00:00:00.000Z"
+  },
+  "totalRevenue": 6000,
+  "newCustomers": 12,
+  "todayAppointments": 9,
+  "completedAppointments": 8,
+  "pendingMessages": 3,
+  "activeServices": 6,
+  "totalClients": 55,
+  "servicesBooked": "{\\\"Massage\\\": 4, \\\"Facial\\\": 3}",
+  "peakHours": "[\\\"11:00-12:00\\",
+  "averageRating": " \\\"16:00-17:00\\\"]\"",
+  "revenueByCategory": 4.7
+}]

@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "697898c899eb825b6715da3d"
+  },
+  "name": "Beard Trim",
+  "description": "Clean beard shaping service",
+  "price": "3000 RWF",
+  "duration": "20 min",
+  "category": "beard",
+  "features": "trim|line-up",
+  "image": "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=400&h=300&fit=crop",
+  "popular": false
+},
+{
+  "_id": {
+    "$oid": "697c7e8871276aebb9738501"
+  },
+  "name": "Hair Cuts",
+  "description": "asdasad",
+  "price": "5000 RWF",
+  "duration": "1 hour",
+  "category": "kids",
+  "features": [
+    "adasdas"
+  ],
+  "image": "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=400&h=300&fit=crop",
+  "popular": false,
+  "createdAt": {
+    "$date": "2026-01-30T09:48:56.497Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-30T09:48:56.497Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697c8d2f71276aebb9738525"
+  },
+  "name": "Spa Relax",
+  "description": "lll",
+  "price": "20000 RWF",
+  "duration": "1 hour",
+  "category": "spa",
+  "features": [
+    "0"
+  ],
+  "image": "instagrom.com/p/C6Py-z4oLvU",
+  "popular": false,
+  "createdAt": {
+    "$date": "2026-01-30T10:51:27.372Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-30T10:51:57.601Z"
+  },
+  "__v": 0
+}]
