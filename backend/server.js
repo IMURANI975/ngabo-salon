@@ -23,7 +23,7 @@ const PORT = process.env.PORT || 5000;
 // Encode username and password to handle special characters
 const username = encodeURIComponent(process.env.DB_USER || 'mike200');
 const password = encodeURIComponent(process.env.DB_PASS || 'mike200');
-const dbName = process.env.DB_NAME || 'test'; // specify your DB here
+const dbName = process.env.DB_NAME || 'ngabo-saloon'; // specify your DB here
 
 // Correct MongoDB URI with database specified
 const MONGODB_URI = `mongodb+srv://${username}:${password}@cluster0.lqt3c64.mongodb.net/${dbName}?retryWrites=true&w=majority`;
